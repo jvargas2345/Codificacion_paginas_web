@@ -1,2 +1,8 @@
-# Codificacion_paginas_web
-Repositorio para modulo 3 codificacion de paginas web para el programa desarrollo paginas web
+PORTAFOLIO DE EVIDENCIAS GIO, CODIFICACION DE PAGINAS WEB
+
+-Unidad-01-control-versiones
+ -Instalacion y configuracion de git y github
+
+ comandos basicos de git y github
+
+ Unidad 02- HTML
