@@ -12,4 +12,3 @@ Unidad 02- HTML
 -Metadatos y nuestros metadatos.
 -W3C validacion de HTML
 -Favicon y tittle
-.
