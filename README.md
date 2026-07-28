@@ -61,7 +61,7 @@ Portafolio-Codificación de Páginas Web/
 |  S03   | Estructura del documento HTML5 |                                                      | [ver](unidad-02/) | [ver](recursos/) |
 |  S04   | Texto, enlaces y anclas        |                                                      | [ver](unidad-02/) | [ver](recursos/) |
 |  S05   | Listas y tablas                | Aprendi a crear listas                          | [ver](unidad-02/) | [ver](recursos/C:\Users\Estudiante01_Progra1\Documents\Codificacion_paginas_web\Unidad 02-html\sitio-demo) |
-|  S06   | Formularios y  semántica        |                                                     | [ver](unidad-02/) | [ver](recursos/) |
+|  S06   | Formularios y  semántica        | Aprendimos a crear formularios en html                       | [ver](unidad-02/) | [ver](recursos/)C:\Users\Estudiante01_Progra1\Documents\Codificacion_paginas_web\Unidad 02-html\sitio-demo |
 |  S07   | Multimedia                     |                            | [ver](unidad-02/) | [ver](recursos/) |
 |  S08   | SVG y repaso                   |                            | [ver](unidad-02/) | [ver](recursos/) |
 
