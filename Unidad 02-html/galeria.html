@@ -29,21 +29,36 @@
     </header>
 
     <main>
+
         <h1>Galería</h1>
-        <img src="./sitio-demo/Recursos/LaboratorioInformatica.jpg"
-            alt="imagen de la galeria de un laboratorio informatico " witdh="600" height="300" />
-        <!--Figure: agrupa un contenido con una explicacion-->
+        <article>
+            <img src="./sitio-demo/Recursos/LaboratorioInformatica.jpg"
+                alt="imagen de la galeria de un laboratorio informatico " witdh="600" height="300" />
+            <!--Figure: agrupa un contenido con una explicacion-->
 
 
-        <figure>
-            <img src="./sitio-demo/Recursos/LaboratorioInformatica2.jpg" alt="Imagen de un segundo laboratorio" ,
-                witdh="600" height="500" />
-            <figcaption>Imagen de laboratorio de informatica</figcaption>
+            <figure>
+                <img src="./sitio-demo/Recursos/LaboratorioInformatica2.jpg" alt="Imagen de un segundo laboratorio" ,
+                    witdh="600" height="500" />
+                <figcaption>Imagen de laboratorio de informatica</figcaption>
 
-        </figure>
+            </figure>
+
+            <!--Varios formatos el navegador elige el uno-->
+            <figure>
+                <picture>
+                    <source srcset="./sitio-demo/Recursos/LaboratorioInformatica3.webp" type="image/webp">
+                    <source srcset="./sitio-demo/Recursos/LaboratorioInformatica3.jpg" type="image/jpeg">
+                    <img src="./sitio-demo/Recursos/LaboratorioInformatica3.jpg"
+                        alt="Imagen de la galeria de un laboratorio" witdh="600" height="500">
+                </picture>
+            </figure>
+
+        </article>
 
 
-
+        <!--AUDIO-->
+        
 
 
 
