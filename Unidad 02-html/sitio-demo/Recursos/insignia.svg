@@ -1,0 +1,25 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="https://www.w3.org/2000/svg">
+
+                <!--Circle: se ubica por su centro (cx, cy) y su radio (r)-->
+                <circle cx="100" cy="100" r="100" fill="#C55A11"></circle>
+                <!--FONDO-->
+
+                <circle cx="100 " cy="100" r="72" fill="#FFF8E1" stroke="#1F4E79" stroke-with="4"></circle>
+
+                <!--text: codigo para crear texto svg-->
+                <text x="100" y="170" text-anchor="middle" front-size="14" fill="#1F4E79">HTML</text>
+
+
+                   <!--polygon:lista de vertices; la figura se cierra sola -->
+                <polygon points="100,45 112,80 119,102 130,137 100,115 70,137 81,102 51,80 88,80" fill="#F5C518"></polygon>
+               
+
+                </svg>
+
+
+                    <article>
+        <h2>Gráficas vectoriales</h2>
+        <!-- SVG EN LÍNEA: se dibuja con codigo (Sesión08)-->
+         <section id="insignia">
+            <h3>Insignia del módulo</h3>
+         
