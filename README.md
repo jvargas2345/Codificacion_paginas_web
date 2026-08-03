@@ -63,7 +63,7 @@ Portafolio-Codificación de Páginas Web/
 |  S05   | Listas y tablas                | Aprendi a crear listas                          | [ver](unidad-02/) | [ver](recursos/C:\Users\Estudiante01_Progra1\Documents\Codificacion_paginas_web\Unidad 02-html\sitio-demo) |
 |  S06   | Formularios y  semántica        | Aprendimos a crear formularios en html                       | [ver](unidad-02/) | [ver](recursos/)C:\Users\Estudiante01_Progra1\Documents\Codificacion_paginas_web\Unidad 02-html\sitio-demo |
 |  S07   | Multimedia                     |                            | [ver](unidad-02/) | [ver](recursos/) |
-|  S08   | SVG y repaso                   |                            | [ver](unidad-02/) | [ver](recursos/) |
+|  S08   | SVG y repaso                   | Creamos el archivo insignia                           | [ver](unidad-02/) | [ver](recursos/:\Users\Estudiante01_Progra1\Documents\Codificacion_paginas_web\Unidad 02-html\sitio-demo) |
 
 </details>
 
