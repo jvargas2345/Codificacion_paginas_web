@@ -1,8 +1,8 @@
-<div align="center" markdown="1"> 
+<div align="center" markdown="1">
 
 # 📘 Portafolio de Evidencias
 
-### Nombre Completo de la Persona Estudiante
+### Jennifer vargas gutierrez
 
 **CSTI12002 · Codificación de páginas web** · Instituto Nacional de Aprendizaje
 Facilitador: Giovanni Antonio Coto Calderón · Edición 2 · 2026
@@ -52,18 +52,76 @@ Portafolio-Codificación de Páginas Web/
 | :----: | :----------- | :------------------------------------- | :---------------: | :--------------: |
 |  S01   | Git y GitHub | _(escribir aquí con palabras propias)_ | [ver](unidad-01/) | [ver](recursos/) |
 
+
+
+
+
+
 <details markdown="1">
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
 
-| Sesión | Tema                           | Qué aprendí                                          |      Trabajo      |     Captura      |
-| :----: | :----------------------------- | :--------------------------------------------------- | :---------------: | :--------------: |
-|  S02   | Git colaborativo, la web y XML | Aprendi sobre comandos git para trabajo colaborativo | [ver](unidad-02/) | [ver](recursos/) |
-|  S03   | Estructura del documento HTML5 |                                                      | [ver](unidad-02/) | [ver](recursos/) |
-|  S04   | Texto, enlaces y anclas        |                                                      | [ver](unidad-02/) | [ver](recursos/) |
-|  S05   | Listas y tablas                | Aprendi a crear listas                          | [ver](unidad-02/) | [ver](recursos/C:\Users\Estudiante01_Progra1\Documents\Codificacion_paginas_web\Unidad 02-html\sitio-demo) |
-|  S06   | Formularios y  semántica        | Aprendimos a crear formularios en html                       | [ver](unidad-02/) | [ver](recursos/)C:\Users\Estudiante01_Progra1\Documents\Codificacion_paginas_web\Unidad 02-html\sitio-demo |
-|  S07   | Multimedia                     |                            | [ver](unidad-02/) | [ver](recursos/) |
-|  S08   | SVG y repaso                   | Creamos el archivo insignia                           | [ver](unidad-02/) | [ver](recursos/:\Users\Estudiante01_Progra1\Documents\Codificacion_paginas_web\Unidad 02-html\sitio-demo) |
+| Sesión | Tema                           | Qué aprendí                                          |      Trabajo      |                                                  Captura                                                   |
+| :----: | :----------------------------- | :--------------------------------------------------- | :---------------: | :--------------------------------------------------------------------------------------------------------: |
+|  S02   | Git colaborativo, la web y XML | Aprendi sobre comandos git para trabajo colaborativo | [ver](unidad-02/) |                                              [ver](recursos/)                                              |
+|  S03   | Estructura del documento HTML5 |                                                      | [ver](unidad-02/) |                                              [ver](recursos/)                                              |
+|  S04   | Texto, enlaces y anclas        |                                                      | [ver](unidad-02/) |                                              [ver](recursos/)                                              |
+|  S05   | Listas y tablas                | Aprendi a crear listas                               | [ver](unidad-02/) | [ver](recursos/C:\Users\Estudiante01_Progra1\Documents\Codificacion_paginas_web\Unidad 02-html\sitio-demo) |
+|  S06   | Formularios y semántica        | Aprendimos a crear formularios en html               | [ver](unidad-02/) | [ver](recursos/)C:\Users\Estudiante01_Progra1\Documents\Codificacion_paginas_web\Unidad 02-html\sitio-demo |
+|  S07   | Multimedia                     |                                                      | [ver](unidad-02/) |                                              [ver](recursos/)                                              |
+|  S08   | SVG y repaso                   | Creamos el archivo insignia                          | [ver](unidad-02/) | [ver](recursos/:\Users\Estudiante01_Progra1\Documents\Codificacion_paginas_web\Unidad 02-html\sitio-demo)  |
+
+
+
+<!--
+  ─────────────────────────────────────────────────────────────────────
+  DÓNDE PEGAR ESTO
+
+  Dentro del bloque <details> de la Unidad 2 que YA existe,
+  DESPUÉS de la tabla de sesiones que ya está completada
+  y ANTES de la línea que cierra:  </details>
+
+  No borres nada de lo que ya tienes escrito.
+  ─────────────────────────────────────────────────────────────────────
+-->
+
+---
+
+### El sitio personal
+
+Proyecto propio construido de forma autónoma.
+**Tema del sitio:** _(escribir aquí el tema elegido)_
+
+| Página | Qué contiene | Sesiones aplicadas | Ver | Validación |
+|:-------|:-------------|:------------------:|:---:|:----------:|
+| `index.html` | Estructura semántica, metadatos, texto jerarquizado, citas, enlaces y anclas | S03 · S04 · S06 | [ver](unidad-02-html/sitio-personal/index.html) | [ver](recursos/sp-validacion-index.png) |
+| `listas.html` | Las tres listas, lista anidada y tabla con celdas combinadas | S05 | [ver](unidad-02-html/sitio-personal/listas.html) | [ver](recursos/sp-validacion-listas.png) |
+| `contacto.html` | Formulario con ocho campos y validación de HTML | S06 | [ver](unidad-02-html/sitio-personal/contacto.html) | [ver](recursos/sp-validacion-contacto.png) |
+| `galeria.html` | Imágenes, audio, video con subtítulos y gráficas SVG | S07 · S08 | [ver](unidad-02-html/sitio-personal/galeria.html) | [ver](recursos/sp-validacion-galeria.png) |
+
+**Decisiones que tomé**
+
+| Decisión | Qué elegí | Por qué |
+|:---------|:----------|:--------|
+| Tema del sitio | | |
+| Atributo de la lista ordenada | | |
+| Formatos de imagen usados | | |
+| Formas del gráfico SVG | | |
+
+**Cómo se ve**
+
+<p align="center">
+  <img src="recursos/sp-vista-index.png" width="600" alt="Portada del sitio personal">
+</p>
+
+<div align="center" markdown="1">
+
+*Portada del sitio personal al cerrar la Unidad 2.*
+
+</div>
+
+**Comprobado en dos navegadores:**
+[Chrome](recursos/sp-navegador-chrome.png) · [Firefox](recursos/sp-navegador-firefox.png)
+
 
 </details>
 
@@ -168,9 +226,9 @@ _(Escribir al cerrar el módulo. Tres preguntas para orientarla:)_
 
 ---
 
-<div align="center" markdown="1"> 
+<div align="center" markdown="1">
 
-**Nombre Completo** · correo@ejemplo.com
+**Jennifer vargas Gutierrez** · jennifervargas057@gmail.com
 
 Portafolio elaborado durante el módulo CSTI12002 · Instituto Nacional de Aprendizaje · 2026
 
