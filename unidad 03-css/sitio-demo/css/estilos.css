@@ -1,0 +1,11 @@
+/*cssestilos.css*/
+body{
+    font-family: Arial,sans-serif;
+    color:#d48787;
+    background-color:rgb(178, 248, 183)
+}
+h2{
+    color: #171717;
+    font-size: 32px;
+    text-align: center;
+}
