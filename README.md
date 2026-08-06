@@ -130,7 +130,7 @@ Proyecto propio construido de forma autónoma.
 
 | Sesión | Tema                       | Qué aprendí |      Trabajo      |     Captura      |
 | :----: | :------------------------- | :---------- | :---------------: | :--------------: |
-|  S11   | Introducción a CSS         |             | [ver](unidad-03/) | [ver](recursos/) |
+|  S11   | Introducción a CSS         | Aprendi a crear estilos basicos en css | [ver](unidad-03/) | [ver](recursos/) |
 |  S12   | Selectores y pseudo-clases |             | [ver](unidad-03/) | [ver](recursos/) |
 |  S13   | Tipografía y color         |             | [ver](unidad-03/) | [ver](recursos/) |
 |  S14   | Modelo de cajas            |             | [ver](unidad-03/) | [ver](recursos/) |
